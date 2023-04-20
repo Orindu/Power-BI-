@@ -1,2 +1,2 @@
 # Power-BI-
-Churn Report
+Data storytelling is a vital skill for business intelligence analysts who need to communicate effectively with both technical and non-technical stakeholders. A good data story can convey insights and recommendations through compelling visualization. There are many tools available to help you create data stories, but you also need to master the principles of data visualization and storytelling. One example of a data story is this power bi dashboard that shows the progress of an ongoing campaign.
