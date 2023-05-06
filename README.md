@@ -1,3 +1,5 @@
-# Power-BI-
-Data storytelling is a vital skill for business intelligence analysts who need to communicate effectively with both technical and non-technical stakeholders. A good data story can convey insights and recommendations through compelling visualization. There are many tools available to help you create data stories, but you also need to master the principles of data visualization and storytelling. One example of a data story is this power bi dashboard that shows the progress of an ongoing campaign.
+# Power-BI, #ETL
+The project aim is to show a data migration process and developing a sales dashboard using power bi. 
+The main task is to use Python to extract data stored in Excel, transform it, create relationship tables, and subsequently updated an SQL database before connecting the same to power bi to develop a sales dashboard.
+
 ![Sales Dashboard2](https://user-images.githubusercontent.com/93644364/233810438-7f7aac2f-6dbd-45db-b86f-196cd96bd3c8.png)
